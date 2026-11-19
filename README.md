@@ -87,7 +87,7 @@ I enjoy learning by doing, experimenting with new tools and turning ideas into p
 
 ## AREAS OF INTEREST
 
-Data & Research · Technology & AI · Environment & Sustainability · Climate & Earth Science · Nature & Biodiversity · Books, Comics & Fictional Problems · Pokémon Haunter
+Data & Research · Technology & AI · Environment & Sustainability · Climate & Earth Science · Nature & Biodiversity · Books, Comics & Fictional Problems · Pokémon Hunter
  
 
 ---
