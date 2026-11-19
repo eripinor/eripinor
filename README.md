@@ -64,16 +64,24 @@ I enjoy learning by doing, experimenting with new tools and turning ideas into p
 
 ---
 
-## CURRENTLY LEARNING
 
-- 📊 Data Analysis & Exploratory Data Analysis (EDA).
-- 🐍 Python programming and data manipulation.
-- 🗄️ SQL and database management.
-- 🤖 Artificial Intelligence and Large Language Models.
-- 🔎 Retrieval-Augmented Generation (RAG).
-- 💻 Building applications with Python.
+<h2 align="center">CURRENTLY LEARNING</h2>
 
+<div align="center">
 
+📊 &nbsp; Data Analysis & Exploratory Data Analysis (EDA).
+
+🐍 &nbsp; Python programming and data manipulation.
+
+🗄️ &nbsp; SQL and database management.
+
+🤖 &nbsp; Artificial Intelligence and Large Language Models.
+
+🔎 &nbsp; Retrieval-Augmented Generation (RAG).
+
+💻 &nbsp; Building applications with Python.
+
+</div>
 
 ---
 
