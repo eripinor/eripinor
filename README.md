@@ -5,7 +5,8 @@
 
 ### Data Analyst · Researcher · Apprentice
 
-*From questions to insights.*
+*"The only thing that makes life possible is permanent, intolerable uncertainty; not knowing what comes next"*
+> — **Ursula K. Le Guin**, *The Dispossessed*
 
 
 <div align="center">
